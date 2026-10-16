@@ -1,0 +1,9 @@
+*.map
+*.map.gz
+*.mrc
+*.zip
+*.tar.gz
+*.pdf
+venv/
+__pycache__/
+*.log
